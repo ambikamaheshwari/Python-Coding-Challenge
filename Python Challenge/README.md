@@ -1,6 +1,6 @@
 # Python-Challenge
 
-Question 1
+Problem Statement 1
 
 Create a method print_github_graph which takes a string parameter,
 search_term,
@@ -49,7 +49,7 @@ non letter characters that appear
 
 in the name attribute, each separated by a newline.
 ____________________________________________________________________________________________________________
-Problem 2
+Problem Statement 2
 
 The sentence "A quick brown fox jumps over the lazy dog" contains every
 single letter in the
@@ -91,7 +91,7 @@ Returns: "cfjkpquvwxz"
 Returns: "abcdefghijklmnopqrstuvwxyz"
 
 ______________________________________________________________________________________________________________
-Problem 3
+Problem Statement 3
 
 You are to write a program that takes a list of strings containing integers and words and returns a sorted version of the list. 
 The goal is to sort this list in such a way that all words are in alphabetical order and all integers are in numerical order. Furthermore, if the nth element in the list is an integer it must remain an integer, and if it is a word it must remain a word. 
