@@ -90,7 +90,7 @@ Returns: "cfjkpquvwxz"
 
 Returns: "abcdefghijklmnopqrstuvwxyz"
 
-___________________________________________________________________________________________________________________-
+______________________________________________________________________________________________________________
 Problem 3
 
 You are to write a program that takes a list of strings containing integers and words and returns a sorted version of the list. 
