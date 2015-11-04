@@ -1,0 +1,22 @@
+Sentence: A quick brown fox jumps over the lazy dog
+ 
+Sentence: "A slow yellow fox crawls under the proactive dog"
+bjkmqz
+
+Sentence: "Lions, and tigers, and bears, oh my!"
+cfjkpquvwxz
+
+Sentence: abcdegfhijklmnopqrstuvwxyz
+ 
+
+ Sentence: ""
+abcdefghijklmnopqrstuvwxyz
+
+Sentence:  
+abcdefghijklmnopqrstuvwxyz
+
+Sentence: 123655
+abcdefghijklmnopqrstuvwxyz
+
+Sentence: 392084!@#@#%$%$%^$%&^*abc
+defghijklmnopqrstuvwxyz

@@ -1,0 +1,23 @@
+
+
+main ()
+1) Takes two arguments from user input and output file name and passes to sortFunction ()
+
+sortFunction ()
+2) Filereader starts reading the content of the file and stores it as a list.
+3) Using regular expression operation 're.sub' removed the special character or symbols from the input.'re.sub' will excludes everything except '0-9,a-z,A-z '. 
+4) Later split() is used in order to split the list into to two arrays, intArray and alphaArray which stores integer and alphabets respectively.
+5) sort() sorts the both arrays in ascending order.reverse = True will convert the sort to descending, this is necessary since the pop() will follow FILO  
+6) lower() is used convert all the alphabets in lower-case. This will help in sort () sorting the array irrespective of the case.
+
+Algorithm analysis:
+The sort() function uses 'Timsort' sorting algorithm, a hybrid function which uses MergeSort and Insertion sort algorithm. 
+Theoretically, no comparison sort can perform better than O(n log n), in some cases Timsort performs in less than O(n log n).
+Another sorting algorithm that can be used are Insertion, Selection, Bubble, Shell, Merge. 
+However, none among these sorting algorithm are best since all sorting algorithm usually takes the same time.
+
+Performance:
+The Time complexity of Timsort is O(n log n) and space complexity is O(n).  
+In place sort is stable, it makes n comparison when the data is already sorted.
+All the iteration takes O(n) + pop takes O(n) + append takes O(1) + Sort takes O(n log n). 
+Since sort takes highest time O(n log n) therefore overall program runs in O(n log n).
